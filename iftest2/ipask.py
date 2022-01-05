@@ -2,7 +2,9 @@
 """Alta3 Research | RZFeeser
    Conditionals - testing if strings test true"""
 
+
 def main():
+
     ipchk = input("Apply an IP address: ")  # this line now prompts the user for input
 
     # if user set IP of gateway
