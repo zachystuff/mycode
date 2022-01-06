@@ -7,7 +7,7 @@ def main():
     for x in range(5):
         print(x, end=" ")
 
-    fruitbowl : list[str] = ["apple","pear","grapes"]
+    fruitbowl: list[str] = ["apple", "pear", "grapes"]
     for fruit in fruitbowl:
         print("\n", fruit)
 
